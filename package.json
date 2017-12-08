@@ -1,6 +1,6 @@
 {
   "name": "require-fields",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An express middleware that makes it easy to check that certain values are present in a request.",
   "main": "index.js",
   "scripts": {
