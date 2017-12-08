@@ -1,0 +1,24 @@
+{
+  "name": "require-fields",
+  "version": "1.0.0",
+  "description": "A middleware for express that makes it easy to check that certain values are present in a request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airjp73/require-fields.git"
+  },
+  "author": "Aaron Pettengill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airjp73/require-fields/issues"
+  },
+  "homepage": "https://github.com/airjp73/require-fields#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.3"
+  }
+}
