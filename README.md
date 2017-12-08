@@ -1,8 +1,8 @@
-#Require Fields
+# Require Fields
 
 An express middleware that makes it easy to check that certain values are present in a request.
 
-###Getting Started
+### Getting Started
 First you need to make sure that body parser is being used by your express app.
 
 ```javascript
