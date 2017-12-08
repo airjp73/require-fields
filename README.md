@@ -6,6 +6,7 @@ An express middleware that makes it easy to check that certain values are presen
 First you need to make sure that body parser is being used by your express app.
 
 ```javascript
+app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
 ```
 
