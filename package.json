@@ -1,7 +1,7 @@
 {
   "name": "require-fields",
   "version": "1.0.0",
-  "description": "A middleware for express that makes it easy to check that certain values are present in a request.",
+  "description": "An express middleware that makes it easy to check that certain values are present in a request.",
   "main": "index.js",
   "scripts": {
     "test": "mocha index.spec.js"
